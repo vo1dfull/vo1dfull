@@ -8,53 +8,87 @@
 
 # `vo1dfull`
 
-**Computer Science · Cybersecurity · Systems**
+**Adarsh Chaudhary** &nbsp;·&nbsp; Computer Science undergraduate &nbsp;·&nbsp; Cybersecurity
 
-I like understanding what happens underneath the interface — how software is built,
-how systems behave, and how things break.
+*curious about systems, software, and the ways they break.*
 
-Currently learning, building, and occasionally taking things apart to see why they work.
-
-[Portfolio](https://adarshchaudhary.xyz) · [LinkedIn](https://www.linkedin.com/in/adarshchaudhary67) · [Instagram](https://www.instagram.com/ad7rrsh)
+[portfolio](https://adarshchaudhary.xyz) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/adarshchaudhary67)
 
 </div>
 
 ---
 
-## / the commit river
+## / about
 
-A small map of what I've been working on. Each stream represents a repository;
-the flow follows its commit activity over the last year.
+I like understanding what happens underneath the interface: how software is put together,
+how operating systems behave, how networks communicate, and what happens when something
+doesn't go to plan.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vo1dfull/vo1dfull/output/commit-river.svg" width="100%" alt="Repository commit activity river">
-</div>
+Currently learning C++ and Rust, exploring Linux and networking, and building projects
+around systems and cybersecurity. Still figuring things out. That's the point.
 
-## / currently building
-
-| Track | What I'm exploring |
-|:--|:--|
-| **Rust / systems** | Building practical tools and learning how systems fit together. |
-| **Cybersecurity** | Defensive tooling, network visibility, and understanding attack surfaces. |
-
-*Project links will appear here as these builds become public.*
-
-## / the toolbox
+## / the stack
 
 <div align="center">
 
-`C++` · `Rust` · `Python` · `Linux` · `Networking` · `Git`
+<img src="https://skillicons.dev/icons?i=cpp,rust,python,java,linux,bash,git,github,vscode,html,css&theme=dark" alt="C++, Rust, Python, Java, Linux, Bash, Git, GitHub, VS Code, HTML and CSS">
 
 </div>
+
+## / things in progress
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` — systems / Rust
+
+**Small tools. Clear behaviour. Fewer mysteries.**
+
+Exploring Rust, systems programming, CLI tooling, and the details that make software reliable.
+
+<sub>PROJECT REPOSITORY — IN PROGRESS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### `02` — security / labs
+
+**Observe. Understand. Test. Improve.**
+
+Exploring networking, Linux, defensive security, and practical ways to understand how systems fail.
+
+<sub>PROJECT REPOSITORY — IN PROGRESS</sub>
+
+</td>
+</tr>
+</table>
 
 ## / activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vo1dfull/vo1dfull/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
+
+<img src="https://ghstats.dev/api/card?username=vo1dfull&bg=0d1117&text=d8dee4&title_color=c4cbd2&icon_color=9b6870&border_color=30363d&show_icons=true&show_ring=false&border_radius=10" width="49%" alt="GitHub profile statistics">
+<img src="https://ghstats.dev/api/langs?username=vo1dfull&layout=compact&max_langs=6&bg=0d1117&text=d8dee4&title_color=c4cbd2&border_color=30363d&border_radius=10" width="49%" alt="Most used public repository languages">
+
+<br>
+
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=vo1dfull&bg_color=0d1117&color=c5cbd3&line=8b626b&point=c5cbd3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph">
+
 </div>
 
+## / desk companion
+
 <div align="center">
-  <img src="assets/pixel-terminal.svg" width="112" alt="Tiny pixel terminal">
-  <br>
-  <sub>still figuring things out. that's the point.</sub>
+
+<img src="assets/pixel-companion.svg" width="104" alt="Tiny pixel desk companion">
+
+<sub>currently at the desk. probably debugging something.</sub>
+
+</div>
+
+---
+
+<div align="center">
+<sub>built slowly, with curiosity. · `vo1dfull`</sub>
 </div>
