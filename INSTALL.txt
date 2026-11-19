@@ -1,0 +1,11 @@
+# Restore the original vo1dfull README style
+
+1. Extract this ZIP.
+2. Open your `vo1dfull/vo1dfull` repository.
+3. Replace the repository's `README.md` with this one.
+4. Upload `assets/workstation.png` into the repository's `assets` folder.
+5. Commit the changes to `main`.
+
+The workstation image is the exact original 447 × 447 image attachment. It has been copied without cropping, resizing, or editing.
+
+This restores the earlier green `vo1dfull` heading and terminal-style personal introduction. The contribution snake is linked to the existing `output` branch asset; if your generated file uses a different filename, update that one image URL to match it.
