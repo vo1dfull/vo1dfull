@@ -95,7 +95,7 @@ I like building things, but I also like understanding why they work.
 If you're building something interesting, working on open source, or want to talk tech, feel free to reach out.
 
 - **Portfolio:** [adarshchaudhary.xyz](https://adarshchaudhary.xyz)
-- **LinkedIn:** [adarshchaudhary67](https://www.linkedin.com/in/adarshchaudharycs)
+- **LinkedIn:** [adarshchaudharycs](https://www.linkedin.com/in/adarshchaudharycs)
 - **Instagram:** [ad7rrsh](https://www.instagram.com/ad7rrsh)
 - **Email:** [ad7rshchaudhary@gmail.com](mailto:ad7rshchaudhary@gmail.com)
 
