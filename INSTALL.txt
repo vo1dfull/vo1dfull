@@ -1,11 +1,27 @@
-# Restore the original vo1dfull README style
+# vo1dfull commit river
+
+This is a custom SVG stream-river generator inspired by the flowing repository timelines in your reference image.
+
+## Preview
+
+`preview/commit-river-demo.svg` is a visual mockup with illustrative repository names and demo activity. It is NOT your real GitHub data. The workflow generates the real river from your public repositories.
+
+## Install
 
 1. Extract this ZIP.
-2. Open your `vo1dfull/vo1dfull` repository.
-3. Replace the repository's `README.md` with this one.
-4. Upload `assets/workstation.png` into the repository's `assets` folder.
-5. Commit the changes to `main`.
+2. Upload `scripts/generate_river.py` to the same path in your `vo1dfull/vo1dfull` repository.
+3. Upload `.github/workflows/commit-river.yml`, preserving the folder structure.
+4. In repository Settings → Actions → General, ensure workflow permissions allow read and write access.
+5. In README.md, add the contents of `README-SECTION.md` where you want the river.
+6. Commit to `main`.
+7. Go to Actions → Update commit river → Run workflow.
 
-The workstation image is the exact original 447 × 447 image attachment. It has been copied without cropping, resizing, or editing.
+The action publishes `commit-river.svg` to the `output` branch. It refreshes weekly and can also be run manually.
 
-This restores the earlier green `vo1dfull` heading and terminal-style personal introduction. The contribution snake is linked to the existing `output` branch asset; if your generated file uses a different filename, update that one image URL to match it.
+## Data and limitations
+
+The script queries your public repositories and commit history using GitHub's REST API and the built-in `GITHUB_TOKEN`. It examines up to 30 recently pushed repositories, up to 10 pages of commits per repository, and visualises the last 12 calendar months, including the current month. GitHub API rate limits apply. Only repositories owned by the account are included in this first version.
+
+## Palette
+
+Charcoal/slate background, thin cool-grey contours, muted repository labels, and dusty-rose activity pulses. No snake.
