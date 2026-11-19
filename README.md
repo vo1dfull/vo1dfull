@@ -10,7 +10,7 @@
 
 `building things` · `understanding systems` · `breaking things in a lab`
 
-[portfolio](https://adarshchaudhary.xyz) · [linkedin](https://www.linkedin.com/in/adarshchaudhary67) · [instagram](https://www.instagram.com/ad7rrsh)
+[portfolio](https://adarshchaudhary.xyz) · [linkedin](https://www.linkedin.com/in/adarshchaudharycs) · [instagram](https://www.instagram.com/ad7rrsh)
 
 </div>
 
