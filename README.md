@@ -49,16 +49,14 @@ I don't have everything figured out. That's kind of the point.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><code>rust-systems-lab</code></h3>
+      <h3><a href="https://github.com/vo1dfull/rust-systems-lab">rust-systems-lab ↗</a></h3>
       <sub>RUST / SYSTEMS PROGRAMMING</sub>
-      <p>A practical Rust project exploring systems tooling, performance, reliability and useful developer workflows.</p>
-      <sub>Repository in progress</sub>
+      <p>Experiments in Rust, systems programming, memory safety and practical tooling.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><code>security-lab</code></h3>
+      <h3><a href="https://github.com/vo1dfull/security-lab">security-lab ↗</a></h3>
       <sub>CYBERSECURITY / NETWORKING</sub>
-      <p>A hands-on security project focused on network visibility, log analysis and detecting suspicious activity.</p>
-      <sub>Repository in progress</sub>
+      <p>Hands-on security experiments, network analysis, threat hunting and detection engineering.</p>
     </td>
   </tr>
 </table>
